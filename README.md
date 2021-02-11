@@ -1,1 +1,3 @@
-# server2
+bannerIDBeginca-app-pub-3940256099942544/6300970000bannerIDLast
+interstitialIDBeginca-app-pub-3940256099942544/1033000000interstitialIDLast
+rewardIDBeginca-app-pub-3940256099942544/5224354917rewardIDlast
